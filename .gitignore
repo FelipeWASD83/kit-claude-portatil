@@ -1,0 +1,12 @@
+
+# termos pessoais do dono: ficam fora do git
+ferramentas/privacidade-local.txt
+
+# pacote gerado na hora
+dist/
+
+# lixo
+__pycache__/
+*.pyc
+.backup-*
+_organizacao/backup-destino.txt

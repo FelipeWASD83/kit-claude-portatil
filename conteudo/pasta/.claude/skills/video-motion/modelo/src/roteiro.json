@@ -1,0 +1,13 @@
+{
+  "titulo": "exemplo-de-motion",
+  "bpm": 120,
+  "formatos": ["16x9", "9x16"],
+  "capa": 2.2,
+  "voz": {"nome": "pt-BR-ThalitaMultilingualNeural", "velocidade": "+6%"},
+  "trilha": {"volume": 0.3, "sobVoz": 0.6},
+  "cenas": [
+    {"id": "gancho", "fala": "Todo vídeo bom {gancho}começa com um gancho."},
+    {"id": "ideia", "fala": "Depois, {uma}uma ideia por cena, {tempo}presa ao tempo da fala."},
+    {"id": "fecho", "segundos": 2.5}
+  ]
+}

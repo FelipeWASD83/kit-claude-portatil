@@ -1,0 +1,7 @@
+# Gerados pelos scripts de ferramentas/ (npm run narrar, sons, quadros, entregar) e o que o npm baixa.
+node_modules/
+.venv/
+saida/
+quadros/
+public/narracao/
+public/sons/
